@@ -1,0 +1,35 @@
+{
+  "name": "jev-minecraft",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "An experience-adaptive Minecraft player powered by local OpenJev",
+  "engines": {
+    "node": ">=22.15"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env scripts/play.js",
+    "start:headless": "node --env-file-if-exists=.env src/cli.js play",
+    "viewer:install": ".venv-openjev/bin/python scripts/viewer.py install",
+    "viewer:open": ".venv-openjev/bin/python scripts/viewer.py launch",
+    "test": "node --test",
+    "benchmark": "node src/cli.js benchmark",
+    "report": "node --env-file-if-exists=.env src/cli.js report",
+    "doctor": "node --env-file-if-exists=.env src/cli.js doctor",
+    "server:start": "node scripts/server.js start",
+    "server:stop": "node scripts/server.js stop",
+    "server:status": "node scripts/server.js status",
+    "server:smoke": "node --env-file-if-exists=.env scripts/smoke.js",
+    "skills:smoke": "node scripts/skills-smoke.js",
+    "openjev:start": "node scripts/openjev.js start",
+    "openjev:stop": "node scripts/openjev.js stop",
+    "openjev:status": "node scripts/openjev.js status",
+    "viewer:build": "viewer-hud/gradlew -p viewer-hud build --no-daemon"
+  },
+  "dependencies": {
+    "mineflayer": "4.39.0",
+    "mineflayer-pathfinder": "2.4.5",
+    "rcon-client": "4.2.5",
+    "vec3": "0.1.10"
+  }
+}

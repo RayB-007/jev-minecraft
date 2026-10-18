@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"jev_viewer_hud","version":"0.2.0","name":"Jev Spectator HUD","environment":"client","entrypoints":{"client":["local.jev.hud.JevHud"]},"mixins":["jev-hud.mixins.json"],"depends":{"fabricloader":">=0.16.14","minecraft":"1.21.1","java":">=21"}}

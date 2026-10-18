@@ -1,0 +1,1 @@
+{"required":true,"package":"local.jev.hud.mixin","compatibilityLevel":"JAVA_21","client":["HudMixin"],"injectors":{"defaultRequire":1}}

@@ -1,0 +1,621 @@
+{
+  "source": "Installed official Minecraft Java server data",
+  "version": "1.21.1",
+  "serverJarSha256": "e3bc55693e93cda0188f2e60aea28113fc647c5e85a15fa3d1b347349231b4bb",
+  "recipes": [
+    {
+      "id": "baked_potato",
+      "inputs": [
+        "potato"
+      ],
+      "output": "baked_potato",
+      "ticks": 200
+    },
+    {
+      "id": "black_glazed_terracotta",
+      "inputs": [
+        "black_terracotta"
+      ],
+      "output": "black_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "blue_glazed_terracotta",
+      "inputs": [
+        "blue_terracotta"
+      ],
+      "output": "blue_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "brick",
+      "inputs": [
+        "clay_ball"
+      ],
+      "output": "brick",
+      "ticks": 200
+    },
+    {
+      "id": "brown_glazed_terracotta",
+      "inputs": [
+        "brown_terracotta"
+      ],
+      "output": "brown_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "charcoal",
+      "inputs": [
+        "acacia_log",
+        "acacia_wood",
+        "birch_log",
+        "birch_wood",
+        "cherry_log",
+        "cherry_wood",
+        "dark_oak_log",
+        "dark_oak_wood",
+        "jungle_log",
+        "jungle_wood",
+        "mangrove_log",
+        "mangrove_wood",
+        "oak_log",
+        "oak_wood",
+        "spruce_log",
+        "spruce_wood",
+        "stripped_acacia_log",
+        "stripped_acacia_wood",
+        "stripped_birch_log",
+        "stripped_birch_wood",
+        "stripped_cherry_log",
+        "stripped_cherry_wood",
+        "stripped_dark_oak_log",
+        "stripped_dark_oak_wood",
+        "stripped_jungle_log",
+        "stripped_jungle_wood",
+        "stripped_mangrove_log",
+        "stripped_mangrove_wood",
+        "stripped_oak_log",
+        "stripped_oak_wood",
+        "stripped_spruce_log",
+        "stripped_spruce_wood"
+      ],
+      "output": "charcoal",
+      "ticks": 200
+    },
+    {
+      "id": "coal_from_smelting_coal_ore",
+      "inputs": [
+        "coal_ore"
+      ],
+      "output": "coal",
+      "ticks": 200
+    },
+    {
+      "id": "coal_from_smelting_deepslate_coal_ore",
+      "inputs": [
+        "deepslate_coal_ore"
+      ],
+      "output": "coal",
+      "ticks": 200
+    },
+    {
+      "id": "cooked_beef",
+      "inputs": [
+        "beef"
+      ],
+      "output": "cooked_beef",
+      "ticks": 200
+    },
+    {
+      "id": "cooked_chicken",
+      "inputs": [
+        "chicken"
+      ],
+      "output": "cooked_chicken",
+      "ticks": 200
+    },
+    {
+      "id": "cooked_cod",
+      "inputs": [
+        "cod"
+      ],
+      "output": "cooked_cod",
+      "ticks": 200
+    },
+    {
+      "id": "cooked_mutton",
+      "inputs": [
+        "mutton"
+      ],
+      "output": "cooked_mutton",
+      "ticks": 200
+    },
+    {
+      "id": "cooked_porkchop",
+      "inputs": [
+        "porkchop"
+      ],
+      "output": "cooked_porkchop",
+      "ticks": 200
+    },
+    {
+      "id": "cooked_rabbit",
+      "inputs": [
+        "rabbit"
+      ],
+      "output": "cooked_rabbit",
+      "ticks": 200
+    },
+    {
+      "id": "cooked_salmon",
+      "inputs": [
+        "salmon"
+      ],
+      "output": "cooked_salmon",
+      "ticks": 200
+    },
+    {
+      "id": "copper_ingot_from_smelting_copper_ore",
+      "inputs": [
+        "copper_ore"
+      ],
+      "output": "copper_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "copper_ingot_from_smelting_deepslate_copper_ore",
+      "inputs": [
+        "deepslate_copper_ore"
+      ],
+      "output": "copper_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "copper_ingot_from_smelting_raw_copper",
+      "inputs": [
+        "raw_copper"
+      ],
+      "output": "copper_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "cracked_deepslate_bricks",
+      "inputs": [
+        "deepslate_bricks"
+      ],
+      "output": "cracked_deepslate_bricks",
+      "ticks": 200
+    },
+    {
+      "id": "cracked_deepslate_tiles",
+      "inputs": [
+        "deepslate_tiles"
+      ],
+      "output": "cracked_deepslate_tiles",
+      "ticks": 200
+    },
+    {
+      "id": "cracked_nether_bricks",
+      "inputs": [
+        "nether_bricks"
+      ],
+      "output": "cracked_nether_bricks",
+      "ticks": 200
+    },
+    {
+      "id": "cracked_polished_blackstone_bricks",
+      "inputs": [
+        "polished_blackstone_bricks"
+      ],
+      "output": "cracked_polished_blackstone_bricks",
+      "ticks": 200
+    },
+    {
+      "id": "cracked_stone_bricks",
+      "inputs": [
+        "stone_bricks"
+      ],
+      "output": "cracked_stone_bricks",
+      "ticks": 200
+    },
+    {
+      "id": "cyan_glazed_terracotta",
+      "inputs": [
+        "cyan_terracotta"
+      ],
+      "output": "cyan_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "deepslate",
+      "inputs": [
+        "cobbled_deepslate"
+      ],
+      "output": "deepslate",
+      "ticks": 200
+    },
+    {
+      "id": "diamond_from_smelting_deepslate_diamond_ore",
+      "inputs": [
+        "deepslate_diamond_ore"
+      ],
+      "output": "diamond",
+      "ticks": 200
+    },
+    {
+      "id": "diamond_from_smelting_diamond_ore",
+      "inputs": [
+        "diamond_ore"
+      ],
+      "output": "diamond",
+      "ticks": 200
+    },
+    {
+      "id": "dried_kelp_from_smelting",
+      "inputs": [
+        "kelp"
+      ],
+      "output": "dried_kelp",
+      "ticks": 200
+    },
+    {
+      "id": "emerald_from_smelting_deepslate_emerald_ore",
+      "inputs": [
+        "deepslate_emerald_ore"
+      ],
+      "output": "emerald",
+      "ticks": 200
+    },
+    {
+      "id": "emerald_from_smelting_emerald_ore",
+      "inputs": [
+        "emerald_ore"
+      ],
+      "output": "emerald",
+      "ticks": 200
+    },
+    {
+      "id": "glass",
+      "inputs": [
+        "red_sand",
+        "sand"
+      ],
+      "output": "glass",
+      "ticks": 200
+    },
+    {
+      "id": "gold_ingot_from_smelting_deepslate_gold_ore",
+      "inputs": [
+        "deepslate_gold_ore"
+      ],
+      "output": "gold_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "gold_ingot_from_smelting_gold_ore",
+      "inputs": [
+        "gold_ore"
+      ],
+      "output": "gold_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "gold_ingot_from_smelting_nether_gold_ore",
+      "inputs": [
+        "nether_gold_ore"
+      ],
+      "output": "gold_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "gold_ingot_from_smelting_raw_gold",
+      "inputs": [
+        "raw_gold"
+      ],
+      "output": "gold_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "gold_nugget_from_smelting",
+      "inputs": [
+        "golden_axe",
+        "golden_boots",
+        "golden_chestplate",
+        "golden_helmet",
+        "golden_hoe",
+        "golden_horse_armor",
+        "golden_leggings",
+        "golden_pickaxe",
+        "golden_shovel",
+        "golden_sword"
+      ],
+      "output": "gold_nugget",
+      "ticks": 200
+    },
+    {
+      "id": "gray_glazed_terracotta",
+      "inputs": [
+        "gray_terracotta"
+      ],
+      "output": "gray_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "green_dye",
+      "inputs": [
+        "cactus"
+      ],
+      "output": "green_dye",
+      "ticks": 200
+    },
+    {
+      "id": "green_glazed_terracotta",
+      "inputs": [
+        "green_terracotta"
+      ],
+      "output": "green_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "iron_ingot_from_smelting_deepslate_iron_ore",
+      "inputs": [
+        "deepslate_iron_ore"
+      ],
+      "output": "iron_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "iron_ingot_from_smelting_iron_ore",
+      "inputs": [
+        "iron_ore"
+      ],
+      "output": "iron_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "iron_ingot_from_smelting_raw_iron",
+      "inputs": [
+        "raw_iron"
+      ],
+      "output": "iron_ingot",
+      "ticks": 200
+    },
+    {
+      "id": "iron_nugget_from_smelting",
+      "inputs": [
+        "chainmail_boots",
+        "chainmail_chestplate",
+        "chainmail_helmet",
+        "chainmail_leggings",
+        "iron_axe",
+        "iron_boots",
+        "iron_chestplate",
+        "iron_helmet",
+        "iron_hoe",
+        "iron_horse_armor",
+        "iron_leggings",
+        "iron_pickaxe",
+        "iron_shovel",
+        "iron_sword"
+      ],
+      "output": "iron_nugget",
+      "ticks": 200
+    },
+    {
+      "id": "lapis_lazuli_from_smelting_deepslate_lapis_ore",
+      "inputs": [
+        "deepslate_lapis_ore"
+      ],
+      "output": "lapis_lazuli",
+      "ticks": 200
+    },
+    {
+      "id": "lapis_lazuli_from_smelting_lapis_ore",
+      "inputs": [
+        "lapis_ore"
+      ],
+      "output": "lapis_lazuli",
+      "ticks": 200
+    },
+    {
+      "id": "light_blue_glazed_terracotta",
+      "inputs": [
+        "light_blue_terracotta"
+      ],
+      "output": "light_blue_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "light_gray_glazed_terracotta",
+      "inputs": [
+        "light_gray_terracotta"
+      ],
+      "output": "light_gray_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "lime_dye_from_smelting",
+      "inputs": [
+        "sea_pickle"
+      ],
+      "output": "lime_dye",
+      "ticks": 200
+    },
+    {
+      "id": "lime_glazed_terracotta",
+      "inputs": [
+        "lime_terracotta"
+      ],
+      "output": "lime_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "magenta_glazed_terracotta",
+      "inputs": [
+        "magenta_terracotta"
+      ],
+      "output": "magenta_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "nether_brick",
+      "inputs": [
+        "netherrack"
+      ],
+      "output": "nether_brick",
+      "ticks": 200
+    },
+    {
+      "id": "netherite_scrap",
+      "inputs": [
+        "ancient_debris"
+      ],
+      "output": "netherite_scrap",
+      "ticks": 200
+    },
+    {
+      "id": "orange_glazed_terracotta",
+      "inputs": [
+        "orange_terracotta"
+      ],
+      "output": "orange_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "pink_glazed_terracotta",
+      "inputs": [
+        "pink_terracotta"
+      ],
+      "output": "pink_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "popped_chorus_fruit",
+      "inputs": [
+        "chorus_fruit"
+      ],
+      "output": "popped_chorus_fruit",
+      "ticks": 200
+    },
+    {
+      "id": "purple_glazed_terracotta",
+      "inputs": [
+        "purple_terracotta"
+      ],
+      "output": "purple_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "quartz",
+      "inputs": [
+        "nether_quartz_ore"
+      ],
+      "output": "quartz",
+      "ticks": 200
+    },
+    {
+      "id": "red_glazed_terracotta",
+      "inputs": [
+        "red_terracotta"
+      ],
+      "output": "red_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "redstone_from_smelting_deepslate_redstone_ore",
+      "inputs": [
+        "deepslate_redstone_ore"
+      ],
+      "output": "redstone",
+      "ticks": 200
+    },
+    {
+      "id": "redstone_from_smelting_redstone_ore",
+      "inputs": [
+        "redstone_ore"
+      ],
+      "output": "redstone",
+      "ticks": 200
+    },
+    {
+      "id": "smooth_basalt",
+      "inputs": [
+        "basalt"
+      ],
+      "output": "smooth_basalt",
+      "ticks": 200
+    },
+    {
+      "id": "smooth_quartz",
+      "inputs": [
+        "quartz_block"
+      ],
+      "output": "smooth_quartz",
+      "ticks": 200
+    },
+    {
+      "id": "smooth_red_sandstone",
+      "inputs": [
+        "red_sandstone"
+      ],
+      "output": "smooth_red_sandstone",
+      "ticks": 200
+    },
+    {
+      "id": "smooth_sandstone",
+      "inputs": [
+        "sandstone"
+      ],
+      "output": "smooth_sandstone",
+      "ticks": 200
+    },
+    {
+      "id": "smooth_stone",
+      "inputs": [
+        "stone"
+      ],
+      "output": "smooth_stone",
+      "ticks": 200
+    },
+    {
+      "id": "sponge",
+      "inputs": [
+        "wet_sponge"
+      ],
+      "output": "sponge",
+      "ticks": 200
+    },
+    {
+      "id": "stone",
+      "inputs": [
+        "cobblestone"
+      ],
+      "output": "stone",
+      "ticks": 200
+    },
+    {
+      "id": "terracotta",
+      "inputs": [
+        "clay"
+      ],
+      "output": "terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "white_glazed_terracotta",
+      "inputs": [
+        "white_terracotta"
+      ],
+      "output": "white_glazed_terracotta",
+      "ticks": 200
+    },
+    {
+      "id": "yellow_glazed_terracotta",
+      "inputs": [
+        "yellow_terracotta"
+      ],
+      "output": "yellow_glazed_terracotta",
+      "ticks": 200
+    }
+  ]
+}
